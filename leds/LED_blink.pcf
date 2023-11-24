@@ -1,0 +1,2 @@
+set_io LED 104
+set_io CLK 21
